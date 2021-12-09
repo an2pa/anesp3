@@ -1,0 +1,136 @@
+body{
+    background-color: rgb(221, 233, 170);
+}
+h1{
+    text-align: center;
+    margin-left: 600;
+}
+h2{
+    color: rgb(6, 6, 12);
+text-align: center;
+}
+#hsum{
+    text-align:center;
+  }
+.sumamed{
+    background-color: rgb(155, 248, 175) ;
+    float:center;
+   border-radius: 10px;
+   box-shadow: 10px 10px 5px 0px rgba(59, 53, 53, 0.75);
+   padding: 10px;
+   margin-bottom: 30px;
+   margin-left: 350px;
+   width: 600px;
+   position: relative;
+}
+#foto{
+    border-radius: 15px;
+    float: center;
+    margin-left: 550px;
+}
+
+.Bio{
+    background-color: rgb(146, 253, 169) ;
+    float:center;
+   border-radius: 10px;
+   width: 600px;
+   box-shadow: 10px 10px 5px 0px rgba(59, 53, 53, 0.75);
+   padding: 10px;
+   margin-bottom: 30px;
+   margin-left: 350px;
+   position: relative;
+  }
+.Edu{
+    background-color: rgb(131, 253, 131);
+    float: center;
+    margin-left: 350px;
+    width: 600px;
+    border-radius: 10px; 
+    box-shadow: 10px 10px 5px 0px rgba(59, 53, 53, 0.75);
+    padding: 10px;
+    margin-bottom: 30px;
+    position: relative;
+
+}
+    .lang{
+    width: 600px;
+    border-radius: 10px; 
+    background-color: rgb(97, 248, 97);
+    box-shadow: 10px 10px 5px 0px rgba(59, 53, 53, 0.75);
+    margin-left: 350px;
+    margin-bottom: 30px;
+    padding: 10px;
+    position: relative;
+}
+#hlang{
+    text-align: center;
+}
+.skills{
+    float: center;
+     width: 600px;
+    border-radius: 10px; 
+    background-color: rgb(78, 250, 62);
+    box-shadow: 10px 10px 5px 0px rgba(59, 53, 53, 0.75);
+    margin-left: 350px;
+    padding: 10px;
+    margin-bottom: 30px;
+    position: relative;
+}
+.contact{
+    float: center;
+    width: 600px;
+    border-radius: 10px; 
+    background-color: rgb(27, 180, 81);
+    box-shadow: 10px 10px 5px 0px rgba(59, 53, 53, 0.75);
+    margin-left: 350px;
+    padding: 10px;
+    margin-bottom: 30px;
+    position: relative;
+}
+.loc{
+    float: center;
+    width: 600px;
+    border-radius: 10px; 
+    background-color: rgb(38, 138, 51);
+    box-shadow: 10px 10px 5px 0px rgba(59, 53, 53, 0.75);
+    margin-left: 350px;
+    padding: 10px;   
+    margin-bottom: 30px;
+    position: relative;
+}
+
+ul.bos{
+    list-style-image: url(imgs/bosnia.jpg);
+}
+ul.french{
+    list-style-image: url(imgs/french.png);
+}
+ul.eng{
+    list-style-image: url(imgs/EN.png);
+}
+ul.turk{
+    list-style-image: url(imgs/turkish-icon-8.jpg);
+}
+#copy{
+    float: center;
+    width: 600px;
+    border-radius: 10px; 
+
+}
+.Topbutton{
+    position: fixed;
+    bottom: 50px;
+    right:45px;
+    width: 45px;
+    height:45px;
+    background-color: rgb(247, 245, 245);
+    color:blanchedalmond;
+    border: 2px solid rgb(7, 7, 7);
+    border-radius: 7px;
+    opacity: 0;
+    }
+.showTopbtn{
+    opacity: 1;
+}
+
+
